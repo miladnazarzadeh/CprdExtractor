@@ -30,13 +30,13 @@ The tool is designed to run on institutional high-performance computing (HPC) cl
 
 The home screen provides an overview of the data environment, configured paths, and available modules.
 
-![Home Dashboard](screenshots/home_dashboard.png)
+![Home Dashboard](screenshots/home.png)
 
 ### Code List Development
 
 A six-stage pipeline guides the user from defining a clinical feature of interest, through synonym generation and code browser searches, to CPRD EMIS Dictionary matching with full audit trail and Excel export.
 
-![Code List Development](screenshots/code_list_development.png)
+![Code List Development](screenshots/codelist_development.png)
 
 ### Drug Lookup
 
@@ -48,7 +48,7 @@ Search and browse 315 cardiovascular/cardiometabolic drugs by therapeutic class,
 
 Configure and launch high-performance extraction jobs across CPRD Aurum tables using a parallel DuckDB engine. Supports both local and HPC (Slurm) modes.
 
-![CPRD Aurum Extraction](screenshots/cprd_extraction.png)
+![CPRD Aurum Extraction](screenshots/aurum_extraction.png)
 
 ### Cohort Builder
 
