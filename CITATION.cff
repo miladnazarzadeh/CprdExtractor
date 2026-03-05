@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "CPRD Extractor: An Interactive Platform for Clinical Practice Research Datalink Data Extraction and Cohort Assembly"
+message: "If you use this software in your research, please cite it as below."
+type: software
+authors:
+  - given-names: Milad
+    family-names: Nazarzadeh
+    email: milad.nazarzadeh@wrh.ox.ac.uk
+    affiliation: "Nuffield Department of Women's & Reproductive Health, University of Oxford"
+    orcid: "https://orcid.org/0000-0003-1246-5478"
+repository-code: "https://github.com/miladnazarzadeh/CprdExtractor"
+url: "https://github.com/miladnazarzadeh/CprdExtractor"
+license: MIT
+version: 1.0.0
+date-released: "2026-03-01"
+keywords:
+  - CPRD
+  - electronic health records
+  - real-world evidence
+  - epidemiology
+  - pharmacoepidemiology
+  - cohort study
+  - data extraction
+  - clinical code lists
+  - SNOMED CT
+  - ICD-10
