@@ -24,3 +24,5 @@ keywords:
   - clinical code lists
   - SNOMED CT
   - ICD-10
+  - DuckDB
+  - Streamlit

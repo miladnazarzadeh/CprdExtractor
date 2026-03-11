@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data outputs (never commit patient data)
+cprd_outputs/
+*.parquet
+*.csv
+!requirements.txt
+
+# CPRD data (never commit)
+Extract_*/
+practice_*/
+linkage/
+202102_lookups/
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+*.bak

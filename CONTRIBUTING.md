@@ -26,11 +26,18 @@ The application will start in **Mock Data** mode by default, so no CPRD data acc
 - Add docstrings to new functions.
 - Test with Mock Data mode before submitting.
 
+## Pull Request Process
+
+1. Create a feature branch from `main` (`git checkout -b feature/my-feature`).
+2. Make your changes and test with Mock Data mode.
+3. Ensure your code follows the project's style conventions.
+4. Submit a pull request with a clear description of the changes.
+
 ## Important Notes
 
 - **Never commit patient data.** The `.gitignore` is configured to exclude data files, but please verify before pushing.
-- CPRD licence terms apply. This tool facilitates data extraction — it does not distribute CPRD data.
+- **CPRD licence terms apply.** This tool facilitates data extraction; it does not distribute CPRD data.
 
 ## Contact
 
-For questions, contact Milad Nazarzadeh at the University of Oxford.
+For questions, contact [Milad Nazarzadeh](mailto:milad.nazarzadeh@wrh.ox.ac.uk) at the University of Oxford.
